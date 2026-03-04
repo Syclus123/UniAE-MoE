@@ -1,0 +1,3592 @@
+predict,labels
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sneeze
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sniff
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sneeze
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Sniff,Sniff
+Sneeze,Sneeze
+Laughter,Laughter
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Bark,Sigh
+Sigh,Sigh
+Cough,Cough
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sigh
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Sigh,Sigh
+Laughter,Laughter
+Sniff,Sniff
+Sniff,Sniff
+Cough,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Throat clearing,Throat clearing
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Cough
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sigh
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sneeze,Sneeze
+Laughter,Laughter
+Sigh,Sigh
+Sigh,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Laughter,Laughter
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Sniff,Sniff
+Sigh,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sigh,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sniff
+Sigh,Sigh
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Cough,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Sniff,Sniff
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Throat clearing,Cough
+Sigh,Sigh
+Cough,Cough
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Laughter
+Cough,Cough
+Laughter,Laughter
+Sniff,Sniff
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Cough,Cough
+Sniff,Sniff
+Sigh,Sigh
+Sigh,Sigh
+Sigh,Sigh
+Sigh,Sigh
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Sniff,Sniff
+Sigh,Sigh
+Cough,Cough
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Throat clearing,Cough
+Throat clearing,Throat clearing
+Sniff,Sniff
+Throat clearing,Cough
+Sigh,Sigh
+Laughter,Laughter
+Sigh,Sigh
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Sneeze,Sneeze
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Sneeze,Sneeze
+Laughter,Laughter
+Cough,Cough
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Laughter,Laughter
+Sneeze,Sneeze
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Cough,Cough
+Cough,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Sneeze,Sneeze
+Laughter,Sniff
+Laughter,Laughter
+Cough,Cough
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Sniff
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Sniff
+Cough,Cough
+Cough,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Sniff,Sniff
+Throat clearing,Throat clearing
+Laughter,Laughter
+Cough,Cough
+Sigh,Sigh
+Sniff,Sniff
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sigh
+Sniff,Throat clearing
+Laughter,Laughter
+Sneeze,Sneeze
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Sniff,Sniff
+Sniff,Sigh
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Cough,Sigh
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sigh
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Sigh
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Cough,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Dialogue,Sigh
+Throat clearing,Cough
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sigh,Sigh
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Sneeze,Sneeze
+Sigh,Sigh
+Sniff,Sniff
+Cough,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sigh
+Sniff,Sniff
+Sneeze,Sneeze
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sneeze
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Fart,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Sneeze,Sneeze
+Laughter,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Sniff,Sniff
+Sigh,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Sniff
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Rattle,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sigh
+Sniff,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Laughter,Laughter
+Cough,Throat clearing
+Sigh,Sigh
+Throat clearing,Throat clearing
+Yell,Sneeze
+Cough,Cough
+Sniff,Sniff
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Throat clearing
+Sigh,Sigh
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Sigh,Sigh
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sigh,Sigh
+Laughter,Laughter
+Sigh,Sigh
+Throat clearing,Sneeze
+Sniff,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Cough
+Sniff,Sniff
+Sniff,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Sigh,Sigh
+Sigh,Sigh
+Cough,Cough
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Cough,Cough
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Cough
+Sigh,Sigh
+Sniff,Sniff
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sneeze
+Cough,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sigh
+Sneeze,Sneeze
+Sneeze,Sneeze
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Sneeze,Sneeze
+Laughter,Laughter
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Laughter,Laughter
+Throat clearing,Throat clearing
+Test,Cough
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Sigh,Sigh
+Sniff,Sniff
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Sigh,Sigh
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Cough,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Throat clearing
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Laughter,Laughter
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sneeze
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sigh
+Throat clearing,Throat clearing
+Laughter,Laughter
+Cough,Throat clearing
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Cough
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Cough,Cough
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Sigh,Sigh
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Cough,Cough
+Sigh,Sigh
+Cough,Cough
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Cough
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Laughter,Laughter
+Cough,Cough
+Sigh,Sigh
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sniff
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sniff,Sniff
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sneeze
+Sigh,Sigh
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Sigh,Sigh
+Laughter,Laughter
+Sigh,Sigh
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Cough,Cough
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Cough,Cough
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Sniff,Sniff
+Sniff,Sniff
+Sneeze,Sneeze
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Cough,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Cough,Cough
+Sniff,Sniff
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Cough,Sneeze
+Sigh,Sigh
+Cough,Throat clearing
+Sneeze,Sneeze
+Laughter,Laughter
+Cough,Cough
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sniff,Sniff
+Cough,Throat clearing
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sigh,Laughter
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Sigh
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Cough,Cough
+Cough,Cough
+Throat clearing,Throat clearing
+Laughter,Laughter
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sigh,Sigh
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Cat,Laughter
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Sigh,Sigh
+Sigh,Sigh
+Cough,Cough
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Sigh,Sigh
+Cough,Cough
+Sigh,Sigh
+Cough,Throat clearing
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sigh,Sigh
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Throat clearing,Cough
+Laughter,Laughter
+Sniff,Sigh
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sniff,Sniff
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Cough,Cough
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Sneeze
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Laughter
+Cough,Cough
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sniff,Sniff
+Sigh,Sigh
+Laughter,Laughter
+Sniff,Sneeze
+Sniff,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Cough,Sneeze
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Sigh,Sigh
+Sniff,Sniff
+Sniff,Throat clearing
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Cough
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sigh,Sigh
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Cough,Throat clearing
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Cough
+Throat clearing,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Laughter,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Sniff,Sniff
+Laughter,Cough
+Cough,Throat clearing
+Sniff,Sniff
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Cough
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sniff
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sniff,Sigh
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Sigh,Sigh
+Sniff,Sniff
+Sigh,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Laughter,Laughter
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sigh
+Sniff,Sniff
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sneeze,Sniff
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sigh,Sigh
+Sigh,Sigh
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Cough,Cough
+Sigh,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sneeze
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Cough
+Sneeze,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Cough,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sigh
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Cough,Sneeze
+Laughter,Laughter
+Sigh,Sigh
+Sigh,Sigh
+Sneeze,Sneeze
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sniff,Sniff
+Sigh,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Throat clearing,Throat clearing
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Sniff,Sniff
+Sneeze,Sneeze
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Cough,Cough
+Sniff,Sniff
+Sneeze,Sneeze
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sniff,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Cough,Cough
+Sigh,Sigh
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Cough,Cough
+Sigh,Sigh
+Sigh,Sigh
+Cough,Cough
+Sniff,Sniff
+Cough,Throat clearing
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Cough,Cough
+Cough,Throat clearing
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sniff,Sniff
+Cough,Cough
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Cough,Cough
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Writing,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Sniff
+Sneeze,Sneeze
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Cough,Cough
+Sniff,Sneeze
+Laughter,Laughter
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Laughter,Laughter
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sneeze,Sneeze
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Cough
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Throat clearing
+Laughter,Laughter
+Sniff,Sniff
+Cough,Throat clearing
+Cough,Cough
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Cough,Sneeze
+Cough,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Cough,Throat clearing
+Cough,Cough
+Sniff,Sigh
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sniff,Sniff
+Cough,Throat clearing
+Cough,Sigh
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Sneeze,Sneeze
+Cough,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sigh,Sigh
+Laughter,Laughter
+Cough,Throat clearing
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Laughter,Laughter
+Cough,Cough
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Cough,Throat clearing
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Throat clearing,Cough
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Sniff,Sniff
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Sniff
+Cough,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Throat clearing
+Sigh,Sigh
+Sigh,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sigh
+Sigh,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Sniff,Sneeze
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sniff
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sigh,Sigh
+Throat clearing,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Cough,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Cough,Cough
+Sigh,Sniff
+Laughter,Laughter
+Sneeze,Sneeze
+Laughter,Laughter
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sneeze
+Sigh,Sigh
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Sigh
+Cough,Cough
+Sniff,Sniff
+Sigh,Sigh
+Sniff,Sniff
+Sniff,Sneeze
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Cough,Cough
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Cough,Cough
+Sigh,Sniff
+Sigh,Sigh
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sniff,Sniff
+Laughter,Laughter
+Cough,Throat clearing
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Sigh,Sigh
+Sigh,Sniff
+Throat clearing,Cough
+Throat clearing,Throat clearing
+Sneeze,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sneeze,Sneeze
+Sneeze,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Sigh,Sigh
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Sneeze,Sneeze
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Cough
+Sigh,Sigh
+Cough,Cough
+Sniff,Sniff
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Sneeze,Sneeze
+Laughter,Laughter
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Cough,Throat clearing
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Throat clearing,Throat clearing
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Cough,Cough
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sneeze
+Laughter,Laughter
+Sniff,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sigh,Sigh
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sniff
+Laughter,Laughter
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Laughter,Laughter
+Sigh,Sigh
+Sigh,Sigh
+Sneeze,Sneeze
+Laughter,Laughter
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Throat clearing,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Cough,Cough
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Sigh,Sigh
+Cough,Cough
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Sniff,Sniff
+Sneeze,Sneeze
+Laughter,Laughter
+Sniff,Sniff
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sigh,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Sniff,Sneeze
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Cough,Cough
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sniff,Sniff
+Sneeze,Sniff
+Sneeze,Sneeze
+Cough,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sniff
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Sniff,Sniff
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Sigh,Sigh
+Sneeze,Sneeze
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Laughter,Laughter
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sniff
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Laughter,Laughter
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Cough
+Sneeze,Sneeze
+Cough,Throat clearing
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Sneeze,Cough
+Sneeze,Sneeze
+Cough,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Laughter,Laughter
+Sneeze,Sneeze
+Cough,Cough
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Sniff,Sniff
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Cough,Cough
+Sigh,Sigh
+Cough,Cough
+Sigh,Laughter
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sneeze,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Sigh,Sigh
+Cough,Cough
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Sigh,Sigh
+Cough,Cough
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sigh
+Throat clearing,Cough
+Sigh,Sigh
+Cough,Cough
+Sigh,Sigh
+Throat clearing,Throat clearing
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Sigh,Sigh
+Laughter,Laughter
+Cough,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Throat clearing
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Cough,Throat clearing
+Laughter,Laughter
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Cough,Throat clearing
+Laughter,Laughter
+Cough,Cough
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Sigh,Sigh
+Sniff,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Cough,Cough
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Fart,Sniff
+Sniff,Sniff
+Cough,Cough
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sneeze,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Cough
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Cough,Cough
+Sniff,Sniff
+Sniff,Sniff
+Cough,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sneeze
+Sniff,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Sigh,Sigh
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Cough,Cough
+Sigh,Throat clearing
+Cough,Sneeze
+Cough,Cough
+Sigh,Sigh
+Sniff,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Sniff,Sniff
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sniff
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Sniff,Sniff
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sniff,Sniff
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Sneeze,Sneeze
+Sniff,Sniff
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Cough,Cough
+Sneeze,Sneeze
+Sigh,Sigh
+Sniff,Sniff
+Sniff,Sniff
+Cough,Cough
+Sniff,Sigh
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sigh,Throat clearing
+Sigh,Sigh
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Sniff,Sniff
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Cough,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Cough,Cough
+Sigh,Sigh
+Sigh,Sigh
+Sneeze,Sneeze
+Laughter,Laughter
+Sneeze,Sneeze
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Sigh,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sigh
+Cough,Cough
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Sneeze,Cough
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Throat clearing,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sniff,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Cough,Throat clearing
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Cough,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Sniff,Sniff
+Cough,Cough
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sniff
+Cough,Cough
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sigh
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sniff,Sniff
+Cough,Cough
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sigh,Sigh
+Cough,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Laughter,Laughter
+Cough,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Cough
+Cough,Cough
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Cough,Cough
+Sigh,Sigh
+Cough,Throat clearing
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Cough,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Sigh,Sniff
+Laughter,Laughter
+Cough,Cough
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sigh,Sigh
+Throat clearing,Cough
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Throat clearing,Throat clearing
+Laughter,Laughter
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Cough,Cough
+Sigh,Sniff
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Sneeze,Cough
+Cough,Cough
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Sigh,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Cough,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Cough,Cough
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sniff,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Cough,Cough
+Cough,Cough
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Sigh,Sigh
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Laughter,Laughter
+Sigh,Sigh
+Sigh,Sigh
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Cough,Throat clearing
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Cough,Cough
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sniff
+Sneeze,Sneeze
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Cough,Cough
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Sneeze,Sneeze
+Sniff,Sniff
+Cough,Sneeze
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sigh,Sigh
+Laughter,Laughter
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Sigh,Sniff
+Cough,Cough
+Sniff,Sniff
+Sigh,Sigh
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Throat clearing
+Throat clearing,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sneeze
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Laughter,Laughter
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Cough,Cough
+Sniff,Sniff
+Throat clearing,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Cough,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Throat clearing,Cough
+Cough,Cough
+Sneeze,Sneeze
+Sigh,Sigh
+Sneeze,Sneeze
+Sniff,Sniff
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sniff,Throat clearing
+Laughter,Laughter
+Cough,Cough
+Sigh,Sigh
+Sniff,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Cough,Cough
+Cough,Cough
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Throat clearing
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sniff,Sniff
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Sneeze,Sneeze
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Sneeze,Sneeze
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Sneeze,Sneeze
+Cough,Sneeze
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Laughter,Laughter
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Sigh,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Laughter,Laughter
+Sniff,Sniff
+Sniff,Sniff
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Sigh,Sigh
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Sneeze,Sneeze
+Sniff,Sniff
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sigh,Sigh
+Throat clearing,Throat clearing
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Cough,Throat clearing
+Sigh,Sigh
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Laughter,Laughter
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sniff,Sniff
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Sneeze,Sneeze
+Laughter,Laughter
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Throat clearing
+Laughter,Laughter
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Cough,Laughter
+Fart,Sniff
+Sniff,Sniff
+Sniff,Sniff
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Sigh,Sigh
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Sigh,Sigh
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Sigh,Sigh
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Cough,Throat clearing
+Cough,Cough
+Cough,Sneeze
+Sniff,Sniff
+Sigh,Sigh
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Laughter,Laughter
+Sigh,Sigh
+Sneeze,Sigh
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sniff
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Sigh,Sigh
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Sniff,Sniff
+Laughter,Laughter
+Sigh,Sigh
+Cough,Sigh
+Sneeze,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Sneeze,Sneeze
+Cough,Cough
+Sigh,Sigh
+Laughter,Laughter
+Cough,Cough
+Cough,Cough
+Cough,Cough
+Sigh,Sigh
+Sniff,Sniff
+Throat clearing,Cough
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Sniff,Sniff
+Laughter,Laughter
+Sneeze,Sneeze
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Cough,Cough
+Sigh,Sigh
+Cough,Cough
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Cough,Cough
+Sigh,Sigh
+Sniff,Sniff
+Sigh,Sniff
+Laughter,Laughter
+Sigh,Sigh
+Cough,Cough
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Cough,Cough
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Laughter,Laughter
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Sniff
+Throat clearing,Throat clearing
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Sniff,Sniff
+Throat clearing,Throat clearing
+Laughter,Laughter
+Sniff,Sniff
+Cough,Cough
+Cough,Cough
+Sneeze,Sneeze
+Sigh,Sigh
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Laughter,Laughter
+Sneeze,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Cough,Cough
+Sigh,Sigh
+Sniff,Sniff
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Cough,Cough
+Cough,Cough
+Sniff,Sniff
+Sigh,Sigh
+Cough,Cough
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Cough,Cough
+Laughter,Laughter
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Sigh,Sigh
+Throat clearing,Throat clearing
+Cough,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Sniff,Sniff
+Sneeze,Sneeze
+Sniff,Sneeze
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Throat clearing,Throat clearing
+Sigh,Sigh
+Sigh,Sigh
+Sneeze,Sneeze
+Sniff,Sneeze
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Laughter,Laughter
+Cough,Cough
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Sniff,Sniff
+Sigh,Sigh
+Sneeze,Sneeze
+Sigh,Sigh
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Sniff,Sniff
+Laughter,Laughter
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sniff,Throat clearing
+Sigh,Sigh
+Throat clearing,Throat clearing
+Sniff,Sniff
+Cough,Cough
+Sneeze,Sneeze
+Cough,Cough
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sneeze,Sneeze
+Sniff,Sniff
+Sigh,Sigh
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Cough,Cough
+Throat clearing,Throat clearing
+Sneeze,Sneeze
+Cough,Cough
+Sneeze,Sniff
+Sigh,Sneeze
+Laughter,Laughter
+Sneeze,Sneeze
+Sigh,Sigh
+Sigh,Sneeze
+Sniff,Sniff
+Sniff,Sniff
+Cough,Cough
+Laughter,Laughter
+Cough,Cough
+Throat clearing,Throat clearing
+Sniff,Sniff
+Sneeze,Sneeze
+Laughter,Laughter
+Throat clearing,Throat clearing
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Sniff,Sniff
+Laughter,Laughter
+Cough,Throat clearing
+Sneeze,Sneeze
+Sneeze,Sneeze
+Cough,Cough
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Sigh,Sigh
+Laughter,Laughter
+Laughter,Laughter
+Laughter,Laughter
+Cough,Sigh
+Laughter,Laughter
+sigh,Sneeze
+Cough,Sigh
+Cough,Cough
+Laughter,Laughter
+Sigh,Sigh
+Sneeze,Sneeze
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing
+Throat clearing,Throat clearing

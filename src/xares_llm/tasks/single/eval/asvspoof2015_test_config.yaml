@@ -1,0 +1,10 @@
+eval_asvspoof2015:
+  data:
+    data:
+    - ASVSpoof2015/test/asvspoof_eval_000{00..193}.tar.gz
+    key: binary_spoof
+    prompt: Detect if the audio is genuine or a spoof.
+    repo_id: mispeech/xares_llm_data
+  batch_size: 128
+  num_workers: 0
+  metric: Accuracy

@@ -1,0 +1,10 @@
+eval_cremad:
+  data:
+    data:
+    - CremaD/test/valid_cremad_with_text_0000{00..01}.tar.gz
+    key: label;labels
+    prompt: Identify the emotion expressed in the speech.
+    repo_id: mispeech/xares_llm_data
+  batch_size: 64
+  num_workers: 0
+  metric: Accuracy

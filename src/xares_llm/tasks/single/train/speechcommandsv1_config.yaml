@@ -1,0 +1,9 @@
+max_steps: 10000
+train_data:
+  SpeechCommandsV1:
+    prompt: Classify the keyword.
+    data:
+    - SpeechCommandsV1/train/train_renamed_with_text_0000{00..51}.tar.gz
+    key: text;caption;captions;label;labels
+    repo_id: mispeech/xares_llm_data
+num_training_workers: 4

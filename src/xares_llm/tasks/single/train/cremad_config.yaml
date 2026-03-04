@@ -1,0 +1,9 @@
+max_steps: 1000
+train_data:
+  CremaD:
+    prompt: Identify the emotion expressed in the speech.
+    data:
+    - CremaD/train/train_cremad_with_text_0000{00..05}.tar.gz
+    key: label
+    repo_id: mispeech/xares_llm_data
+num_training_workers: 4

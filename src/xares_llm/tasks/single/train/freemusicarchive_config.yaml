@@ -1,0 +1,8 @@
+train_data:
+  FreeMusicArchive:
+    prompt: Classify the music genre (FMA).
+    data:
+    - FreeMusicArchive/train/small_train_0000{00..63}.tar.gz
+    key: genre
+    repo_id: mispeech/xares_llm_data
+num_training_workers: 4

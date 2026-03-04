@@ -1,0 +1,10 @@
+eval_urbansound8k:
+  data:
+    data:
+    - Urbansound8k/test/urbansound_fold10_0000000.tar.gz
+    key: soundevent
+    prompt: Classify the urban sound.
+    repo_id: mispeech/xares_llm_data
+  batch_size: 32
+  num_workers: 0
+  metric: Accuracy

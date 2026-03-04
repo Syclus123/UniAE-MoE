@@ -1,0 +1,10 @@
+eval_songdescriber:
+  data:
+    data:
+    - Songdescriber/test/valid_song_describer_0000{00..01}.tar.gz
+    key: captions
+    prompt: Generate a caption for the music
+    repo_id: mispeech/xares_llm_data
+  batch_size: 4
+  num_workers: 0
+  metric: FENSE

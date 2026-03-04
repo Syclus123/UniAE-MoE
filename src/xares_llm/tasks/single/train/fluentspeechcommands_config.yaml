@@ -1,0 +1,9 @@
+max_steps: 3000
+train_data:
+  FluentSpeechCommands:
+    prompt: Identify the command, action, and object from the speech.
+    data:
+    - FluentSpeechCommands/train/train_intent_with_text_0000{00..23}.tar.gz
+    key: text;caption;captions;label;labels
+    repo_id: mispeech/xares_llm_data
+num_training_workers: 4

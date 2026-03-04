@@ -1,0 +1,10 @@
+eval_vocalsound:
+  data:
+    data:
+    - VocalSound/test/test_0000{00..04}.tar.gz
+    key: labels
+    prompt: Classify the vocal sound.
+    repo_id: mispeech/xares_llm_data
+  batch_size: 16
+  num_workers: 0
+  metric: Accuracy

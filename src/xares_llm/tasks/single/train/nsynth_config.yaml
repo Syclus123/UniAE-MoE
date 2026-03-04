@@ -1,0 +1,9 @@
+max_steps: 20000
+train_data:
+  NSynth:
+    prompt: Classify the music instrument.
+    data:
+    - NSynth/train/train_000{000..371}.tar.gz
+    key: instrument_family_str
+    repo_id: mispeech/xares_llm_data
+num_training_workers: 4

@@ -1,0 +1,17 @@
+train_data:
+  MECAT:
+    prompt: Write a general audiocaption.
+    repo_id: mispeech/MECAT-Caption
+    data:
+    - 0M0/train_0000-0000000.tar.gz
+    - 000/train_0000-0000000.tar.gz
+    - SMA/train_0000-0000000.tar.gz
+    - S00/train_0000-0000000.tar.gz
+    - S00/train_0001-0000000.tar.gz
+    - 0MA/train_0000-0000000.tar.gz
+    - S0A/train_0000-0000000.tar.gz
+    - SM0/train_0000-0000000.tar.gz
+    - SM0/train_0001-0000000.tar.gz
+    - 00A/train_0000-0000000.tar.gz
+    key: long
+num_training_workers: 4

@@ -1,0 +1,13 @@
+eval_fsd50k:
+  data:
+    data:
+    # - FSD50k/test/eval_with_text_0000{00..31}.tar.gz
+    - FSD50k/test/eval_with_text_000000.tar.gz
+    key: label;labels
+    prompt: Multi-label classification for FSD50k
+    repo_id: mispeech/xares_llm_data
+  batch_size: 32
+  num_workers: 2
+  metric: mAP
+  metric_args:
+    num_classes: 200

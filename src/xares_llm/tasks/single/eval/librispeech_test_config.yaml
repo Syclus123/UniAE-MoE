@@ -1,0 +1,10 @@
+eval_librispeech:
+  data:
+    data:
+    - LibriSpeech/test/test-clean-0000{00..19}.tar.gz
+    key: trans
+    prompt: Transcribe the English speech into text
+    repo_id: mispeech/xares_llm_data
+  batch_size: 4
+  num_workers: 0
+  metric: iWER

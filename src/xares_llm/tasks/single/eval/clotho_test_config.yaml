@@ -1,0 +1,10 @@
+eval_clotho:
+  data:
+    data:
+    - Clotho/test/test_0000{00..04}.tar.gz
+    key: caption;captions
+    prompt: Generate a short caption for the audio.
+    repo_id: mispeech/xares_llm_data
+  batch_size: 64
+  num_workers: 2 
+  metric: FENSE

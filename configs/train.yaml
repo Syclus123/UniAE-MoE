@@ -1,0 +1,87 @@
+# Two stage Encoder Instruction Tuning Configuration
+
+# ==================== general ====================
+output_dir: "experiment_tuning/exp"
+seed: 42
+torch_num_threads: 4
+
+# ==================== stage configuration ====================
+# Stage 1
+stage1_checkpoint: ""
+# save
+stage1_output_suffix: "_stage1"  # {output_dir}/train_task2_config/qwen3_stage1
+stage2_output_suffix: "_stage2"  # {output_dir}/all_train_config/qwen3_stage2
+
+# xares data (original)
+# stage1_train_config: "src/xares_llm/tasks/task2/train/train_task2_config.yaml"
+# stage2_train_config: "src/xares_llm/tasks/all/train/all_train_config.yaml"
+
+# data expansion
+stage1_train_config: "src/xares_llm/tasks/data_expansion/train_task2_config_expansion.yaml"
+stage2_train_config: "src/xares_llm/tasks/data_expansion/all_train_config_expansion.yaml"
+
+# ==================== model ====================
+decoder_model_name: "/path/SmolLM2-135M"
+
+# ==================== Encoder Training Control ====================
+train_encoder_stage1: false  # (default: false)
+train_encoder_stage2: false  # (default: false)
+
+# ==================== Adapter/Q-Former instruction tuning ====================
+# Adapter Configuration
+adapter_type: "adapter"      # "adapter" or "qformer"
+adapter_hidden_dim: null     # Default: encoder_output_dim * 4
+adapter_dropout: 0.1
+
+# QFormer Configuration
+qformer_d_model: 1024
+qformer_num_global_queries: 32
+qformer_num_local_queries: 96
+qformer_layers: 6
+qformer_heads: 16
+qformer_pool_stride: 4
+qformer_dropout: 0.1
+qformer_drop_path: 0.05
+num_tasks: 12
+task_cond: false
+cls_task_ids: None # Classification task IDs for query_budget="auto"
+
+# ==================== LoRA (Stage 2) ====================
+lora_r: 8
+lora_alpha: 32
+lora_dropout: 0.1
+lora_target_modules: "all-linear"
+
+# ==================== train ====================
+# step
+stage1_max_steps: 100000
+stage2_max_steps: 300000
+
+# lr
+stage1_learning_rate: 1.0e-4
+stage2_learning_rate: 1.0e-5
+
+# batch
+per_device_train_batch_size: 8
+
+# Checkpoint save
+save_steps: 1000
+save_total_limit: 3
+
+# warmup and optimizer
+warmup_steps: 1000
+optimizer: "adamw_torch"
+weight_decay: 0.01
+max_grad_norm: 1.0
+
+# ==================== data ====================
+crop_audio_length: 30      # max audio length(s)
+num_training_workers: 0    # data loading worker number
+sort_by_length: 128        # number of samples sorted by length
+
+# ==================== log ====================
+logging_dir: "tensorboard_logs"
+logging_steps: 100
+report_to: "tensorboard"   # "tensorboard", "wandb", "none"
+log_level: "info"
+save_safetensors: true

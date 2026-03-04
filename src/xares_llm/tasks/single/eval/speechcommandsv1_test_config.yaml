@@ -1,0 +1,10 @@
+eval_speechcommandsv1:
+  data:
+    data:
+    - SpeechCommandsV1/test/test_renamed_with_text_0000{00..06}.tar.gz
+    key: text;caption;captions;label;labels
+    prompt: Classify the keyword.
+    repo_id: mispeech/xares_llm_data
+  batch_size: 4
+  num_workers: 0
+  metric: Accuracy

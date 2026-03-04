@@ -1,0 +1,10 @@
+eval_libricount:
+  data:
+    data:
+    - LibriCount/test/libricount_fold04.tar.gz
+    key: num_speakers
+    prompt: Count the amount of speakers.
+    repo_id: mispeech/xares_llm_data
+  batch_size: 32
+  num_workers: 0
+  metric: Accuracy

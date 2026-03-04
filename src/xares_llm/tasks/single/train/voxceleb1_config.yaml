@@ -1,0 +1,9 @@
+max_steps: 5000
+train_data:
+  VoxCeleb1:
+    prompt: Are the two speakers the same or different?
+    data:
+    - VoxCeleb1/train/train_0000{00..39}.tar.gz
+    key: label;labels
+    repo_id: mispeech/xares_llm_data
+num_training_workers: 4

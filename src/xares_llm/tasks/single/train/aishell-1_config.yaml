@@ -1,0 +1,9 @@
+max_steps: 50000
+train_data:
+  AISHELL-1:
+    prompt: Transcribe the Chinese speech into text.
+    data:
+    - AISHELL-1/train/train_000{000..173}.tar.gz
+    key: text
+    repo_id: mispeech/xares_llm_data
+num_training_workers: 4

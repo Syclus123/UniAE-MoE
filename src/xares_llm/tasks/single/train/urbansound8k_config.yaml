@@ -1,0 +1,9 @@
+max_steps: 2000
+train_data:
+  Urbansound8k:
+    prompt: Classify the urban sound.
+    data:
+    - Urbansound8k/train/urbansound_fold{1..9}_0000000.tar.gz
+    key: soundevent
+    repo_id: mispeech/xares_llm_data
+num_training_workers: 4

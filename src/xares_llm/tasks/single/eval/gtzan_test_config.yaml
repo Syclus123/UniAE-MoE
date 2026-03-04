@@ -1,0 +1,10 @@
+eval_gtzan:
+  data:
+    data:
+    - GTZAN/test/gtzan_fold_9_0000000.tar.gz
+    key: genre
+    prompt: Classify the music genre (GTZAN).
+    repo_id: mispeech/xares_llm_data
+  batch_size: 16
+  num_workers: 0
+  metric: Accuracy

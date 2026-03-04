@@ -1,0 +1,9 @@
+max_steps: 2000
+train_data:
+  VocalSound:
+    prompt: Classify the vocal sound.
+    data:
+    - VocalSound/train/train_with_text_0000{00..20}.tar.gz
+    key: text;caption;captions;label;labels
+    repo_id: mispeech/xares_llm_data
+num_training_workers: 4

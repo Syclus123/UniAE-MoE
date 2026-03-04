@@ -1,0 +1,9 @@
+max_steps: 5000
+train_data:
+  Clotho:
+    prompt: Generate a short caption for the audio.
+    data:
+    - Clotho/train/train_0000{00..17}.tar.gz
+    key: text;caption;captions;label;labels
+    repo_id: mispeech/xares_llm_data
+num_training_workers: 4

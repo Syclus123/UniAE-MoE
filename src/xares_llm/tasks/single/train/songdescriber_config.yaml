@@ -1,0 +1,9 @@
+max_steps: 2000
+train_data:
+  Songdescriber:
+    prompt: Generate a caption for the music
+    data:
+    - Songdescriber/train/train_song_describer_0000{00..01}.tar.gz
+    key: caption
+    repo_id: mispeech/xares_llm_data
+num_training_workers: 2

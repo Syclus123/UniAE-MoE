@@ -1,0 +1,1601 @@
+predict,labels
+Computer keyboard,Computer keyboard
+Computer keyboard,Computer keyboard
+Writing,Writing
+Microwave oven,Bus
+Tearing,Tearing
+Scissors,Scissors
+Acoustic guitar,Acoustic guitar
+Knock,Knock
+Electric piano,Electric piano
+Electric piano,Electric piano
+Typing,Computer keyboard
+Electric piano,Electric piano
+Saxophone,Saxophone
+"Gunshot, gunfire","Gunshot, gunfire"
+Chime,Glockenspiel
+Scissors,Scissors
+Bus,Bus
+Electric piano,Electric piano
+Chime,Electric piano
+Saxophone,Saxophone
+Meow,Meow
+Writing,Writing
+Writing,Writing
+Saxophone,Saxophone
+Laughter,Laughter
+Electric piano,Electric piano
+Chime,Acoustic guitar
+Trumpet,Trumpet
+Gong,Gong
+Telephone,Telephone
+Saxophone,Saxophone
+Finger snapping,Finger snapping
+Computer keyboard,Computer keyboard
+Saxophone,Saxophone
+Saxophone,Saxophone
+Acoustic guitar,Acoustic guitar
+Saxophone,Saxophone
+Flute,Saxophone
+Tambourine,Tambourine
+Flute,Flute
+Tearing,Tearing
+"Violin, fiddle","Violin, fiddle"
+Saxophone,Saxophone
+Drawer open or close,Drawer open or close
+Keys jangling,Keys jangling
+Flute,Flute
+Applause,Applause
+Cough,Cough
+Trumpet,Trumpet
+Chime,Chime
+Gong,Gong
+"Gunshot, gunfire","Gunshot, gunfire"
+Drawer open or close,Drawer open or close
+Fireworks,Fireworks
+Saxophone,Saxophone
+Computer keyboard,Computer keyboard
+Cough,Cough
+Keys jangling,Keys jangling
+Cello,Cello
+Flute,Flute
+Acoustic guitar,Acoustic guitar
+Writing,Writing
+Cello,Cello
+"Violin, fiddle","Violin, fiddle"
+Acoustic guitar,Acoustic guitar
+Harmonica,Harmonica
+Bass drum,Bass drum
+Clarinet,Clarinet
+Computer keyboard,Computer keyboard
+Keys jangling,Keys jangling
+Bus,Bus
+Clarinet,Clarinet
+Glockenspiel,Glockenspiel
+Glockenspiel,Glockenspiel
+Flute,Flute
+"Violin, fiddle","Violin, fiddle"
+Cello,Cello
+Flute,Flute
+Cello,Cello
+Clarinet,Clarinet
+Applause,Applause
+Cello,Cello
+Flute,Flute
+"Gunshot, gunfire","Gunshot, gunfire"
+Cello,Cello
+Acoustic guitar,Acoustic guitar
+Laughter,Laughter
+Applause,Applause
+"Burping, eructation","Burping, eructation"
+Cough,Cough
+Cello,Cello
+Trumpet,Trumpet
+Double bass,Double bass
+Acoustic guitar,Acoustic guitar
+Trumpet,Trumpet
+Finger snapping,Finger snapping
+Saxophone,Saxophone
+Cello,Cello
+Writing,Writing
+Harmonica,Harmonica
+Applause,Applause
+Saxophone,Saxophone
+Bark,Bark
+Trumpet,Trumpet
+"Gunshot, gunfire","Gunshot, gunfire"
+Telephone,Telephone
+Cowbell,Cowbell
+Clarinet,Clarinet
+Clarinet,Flute
+Bass drum,Bass drum
+"Thump, thud",Drawer open or close
+Saxophone,Saxophone
+Trumpet,Trumpet
+Writing,Writing
+Shatter,Shatter
+Telephone,Telephone
+Gong,Gong
+Tearing,Tearing
+Telephone,Telephone
+Cough,Cough
+Cello,Cowbell
+"Violin, fiddle","Violin, fiddle"
+Laughter,Laughter
+Double bass,Cello
+"Burping, eructation","Burping, eructation"
+Scissors,Scissors
+Drawer open or close,Drawer open or close
+Trumpet,Trumpet
+Harmonica,Harmonica
+Harmonica,Harmonica
+Saxophone,Saxophone
+Telephone,Telephone
+Microwave oven,Microwave oven
+"Violin, fiddle","Violin, fiddle"
+Chime,Glockenspiel
+"Gunshot, gunfire","Gunshot, gunfire"
+Clarinet,Clarinet
+Laughter,Laughter
+Fireworks,Fireworks
+Drawer open or close,Drawer open or close
+Fart,Fart
+"Violin, fiddle",Cello
+Fart,Fart
+Knock,Knock
+Fart,Fart
+Tearing,Tearing
+Scissors,Scissors
+Trumpet,Trumpet
+"Gunshot, gunfire","Gunshot, gunfire"
+Oboe,Oboe
+Knock,Knock
+Double bass,Double bass
+Saxophone,Saxophone
+Telephone,Telephone
+Double bass,Double bass
+Double bass,Double bass
+mouse click,Computer keyboard
+Double bass,Double bass
+"Gunshot, gunfire","Gunshot, gunfire"
+Laughter,Laughter
+Finger snapping,Finger snapping
+Finger snapping,Finger snapping
+Burping,"Burping, eructation"
+Meow,Meow
+Microwave oven,Microwave oven
+Laughter,Laughter
+Double bass,Double bass
+Cowbell,Cowbell
+Cowbell,Cowbell
+Oboe,Oboe
+Tearing,Squeak
+Telephone,Telephone
+Knock,Knock
+"Violin, fiddle","Violin, fiddle"
+Snare drum,Snare drum
+Fart,Fart
+Tearing,Tearing
+Double bass,Double bass
+Harmonica,Harmonica
+Electric piano,Electric piano
+Double bass,Double bass
+Cowbell,Cowbell
+Cowbell,Cowbell
+Cowbell,Cowbell
+"Gunshot, gunfire","Gunshot, gunfire"
+Double bass,Double bass
+Telephone,Telephone
+Bus,Microwave oven
+Meow,Meow
+Tambourine,Tambourine
+"Violin, fiddle","Violin, fiddle"
+Bass drum,Bass drum
+Saxophone,Saxophone
+Cough,Cough
+"Burping, eructation","Burping, eructation"
+Double bass,Double bass
+Microwave oven,Microwave oven
+Fireworks,Fireworks
+"Violin, fiddle","Violin, fiddle"
+Microwave oven,Microwave oven
+Gong,Gong
+"Gunshot, gunfire","Gunshot, gunfire"
+Tearing,Squeak
+Snare drum,Snare drum
+Tambourine,Tambourine
+Saxophone,Saxophone
+Squeak,Squeak
+"Violin, fiddle","Violin, fiddle"
+Laughter,Laughter
+Cowbell,Cowbell
+Laughter,Laughter
+Cowbell,Cowbell
+Saxophone,Saxophone
+Cough,Cough
+Fart,Fart
+Keys jangling,Keys jangling
+Keys jangling,Keys jangling
+Microwave oven,Microwave oven
+Snare drum,Snare drum
+Snare drum,Snare drum
+Computer keyboard,Computer keyboard
+Shatter,Shatter
+Knock,Knock
+Bass drum,Bass drum
+"Violin, fiddle","Violin, fiddle"
+Telephone,Telephone
+Meow,Meow
+Meow,Meow
+Snare drum,Snare drum
+Keys jangling,Keys jangling
+Knock,Knock
+Tambourine,Tambourine
+Hi-hat,Hi-hat
+Gong,Gong
+"Violin, fiddle","Violin, fiddle"
+Snare drum,Snare drum
+Clarinet,Clarinet
+Finger snapping,Finger snapping
+Scissors,Scissors
+Scissors,Scissors
+Tambourine,Tambourine
+Snare drum,Snare drum
+Hi-hat,Hi-hat
+Bass drum,Bass drum
+Shatter,Shatter
+Tearing,Tearing
+Hi-hat,Hi-hat
+Bass drum,Bass drum
+Bark,Bark
+Keys jangling,Keys jangling
+Bass drum,Bass drum
+Hi-hat,Hi-hat
+Hi-hat,Hi-hat
+Tambourine,Tambourine
+Squeak,Squeak
+Saxophone,Keys jangling
+Gong,Electric piano
+Writing,Writing
+Electric piano,Electric piano
+Electric piano,Electric piano
+Chime,Chime
+Clarinet,Clarinet
+Computer keyboard,Computer keyboard
+Meow,Meow
+"Gunshot, gunfire","Gunshot, gunfire"
+"Gunshot, gunfire","Gunshot, gunfire"
+"Violin, fiddle","Violin, fiddle"
+Fireworks,Fireworks
+Electric piano,Electric piano
+"Violin, fiddle","Violin, fiddle"
+Bark,Bark
+Electric piano,Electric piano
+Knock,Knock
+Road,Bus
+Flute,Flute
+Microwave oven,Microwave oven
+Bark,Bark
+Fireworks,Fireworks
+Acoustic guitar,Acoustic guitar
+Knock,Knock
+Saxophone,Saxophone
+Fireworks,Fireworks
+Knock,Knock
+Clarinet,Clarinet
+Saxophone,Saxophone
+Writing,Writing
+Engine,Bus
+Saxophone,Saxophone
+"Gunshot, gunfire","Gunshot, gunfire"
+Chime,Chime
+Trumpet,Trumpet
+Meow,Meow
+Meow,Meow
+Cello,Cello
+Bass drum,Bass drum
+Flute,Flute
+Flute,Flute
+Flute,Flute
+Microwave oven,Microwave oven
+Telephone,Telephone
+Laughter,Laughter
+Harmonica,Harmonica
+Keys jangling,Keys jangling
+Applause,Applause
+Acoustic guitar,Acoustic guitar
+Harmonica,Harmonica
+Clarinet,Clarinet
+Writing,Writing
+Squeak,Squeak
+Saxophone,Saxophone
+"Violin, fiddle","Violin, fiddle"
+Glockenspiel,Chime
+Trumpet,Trumpet
+Oboe,Oboe
+Saxophone,Saxophone
+Trumpet,Trumpet
+Applause,Applause
+Keys jangling,Keys jangling
+Oboe,Oboe
+Knock,Knock
+Applause,Applause
+Applause,Applause
+Drawer open or close,Drawer open or close
+"Violin, fiddle","Violin, fiddle"
+Electric piano,Electric piano
+Shatter,Shatter
+Harmonica,Harmonica
+Laughter,Laughter
+Chime,Chime
+"Violin, fiddle","Violin, fiddle"
+Electric piano,Electric piano
+Harmonica,Harmonica
+"Violin, fiddle","Violin, fiddle"
+"Gunshot, gunfire","Gunshot, gunfire"
+Computer keyboard,Computer keyboard
+Flute,Flute
+Flute,Flute
+Saxophone,Saxophone
+Scissors,Scissors
+"Violin, fiddle","Violin, fiddle"
+Tearing,Tearing
+Saxophone,Saxophone
+Saxophone,Saxophone
+Acoustic guitar,Acoustic guitar
+Microwave oven,Microwave oven
+Clarinet,Clarinet
+Applause,Applause
+Trumpet,Trumpet
+Harmonica,Squeak
+Saxophone,Saxophone
+Cello,Cello
+Clarinet,Saxophone
+Cello,Cello
+Guitar,Acoustic guitar
+Clarinet,Clarinet
+"Violin, fiddle","Violin, fiddle"
+Trumpet,Trumpet
+Cello,Cello
+Railroad train,Telephone
+Fireworks,Scissors
+Laughter,Laughter
+Saxophone,Saxophone
+Chime,Chime
+Drawer open or close,Drawer open or close
+Brushing teeth,Writing
+Drawer open or close,Drawer open or close
+Tearing,Tearing
+"Violin, fiddle","Violin, fiddle"
+Oboe,Oboe
+Electric piano,Electric piano
+Electric piano,Electric piano
+"Gunshot, gunfire","Gunshot, gunfire"
+"Thump, thud",Knock
+Saxophone,Acoustic guitar
+"Gunshot, gunfire","Gunshot, gunfire"
+Glockenspiel,Glockenspiel
+Clarinet,Clarinet
+Saxophone,Saxophone
+Fart,Fart
+Laughter,Laughter
+Applause,Applause
+Microwave oven,Microwave oven
+Double bass,Double bass
+Gong,Gong
+Trumpet,Trumpet
+Laughter,Laughter
+Glockenspiel,Glockenspiel
+"Burping, eructation","Burping, eructation"
+Writing,Writing
+Laughter,Laughter
+Saxophone,Saxophone
+Fart,Fart
+Finger snapping,Finger snapping
+Gong,Snare drum
+Oboe,Oboe
+Cello,Cowbell
+Finger snapping,Finger snapping
+Double bass,Double bass
+"Gunshot, gunfire","Gunshot, gunfire"
+"Burping, eructation","Burping, eructation"
+Oboe,Oboe
+Oboe,Oboe
+Cowbell,Cowbell
+Laughter,Laughter
+"Burping, eructation","Burping, eructation"
+"Violin, fiddle","Violin, fiddle"
+Cowbell,Cowbell
+Acoustic guitar,Acoustic guitar
+Gong,Gong
+"Violin, fiddle","Violin, fiddle"
+Knock,Knock
+Laughter,Laughter
+Saxophone,Saxophone
+Snare drum,Snare drum
+Urinating,Squeak
+"Burping, eructation","Burping, eructation"
+"Gunshot, gunfire","Gunshot, gunfire"
+Saxophone,Saxophone
+Knock,Knock
+Cowbell,Cowbell
+Cowbell,Cowbell
+Cowbell,Cowbell
+Double bass,Cello
+Telephone,Telephone
+"Burping, eructation","Burping, eructation"
+Saxophone,Saxophone
+Bark,Bark
+Cough,Cough
+Fart,Fart
+Shatter,Shatter
+Fart,Fart
+Tambourine,Tambourine
+"Gunshot, gunfire","Gunshot, gunfire"
+Bass drum,Bass drum
+"Gunshot, gunfire","Gunshot, gunfire"
+Squeak,Squeak
+Snare drum,Snare drum
+Tambourine,Tambourine
+Tambourine,Tambourine
+Tambourine,Tambourine
+Cowbell,Cowbell
+Writing,Tearing
+Acoustic guitar,Acoustic guitar
+Meow,Meow
+Tambourine,Tambourine
+Tambourine,Tambourine
+Squeak,Squeak
+Knock,Knock
+"Gunshot, gunfire","Gunshot, gunfire"
+Snare drum,Snare drum
+"Violin, fiddle","Violin, fiddle"
+Knock,Knock
+Tearing,Tearing
+Snare drum,Snare drum
+Cough,Cough
+Double bass,Double bass
+Fireworks,Fireworks
+"Violin, fiddle","Violin, fiddle"
+Microwave oven,Microwave oven
+Cough,Cough
+Laughter,Laughter
+Shatter,Shatter
+Gong,Gong
+Electric piano,Electric piano
+Tambourine,Tambourine
+Laughter,Laughter
+Microwave oven,Microwave oven
+Saxophone,Saxophone
+Laughter,Laughter
+Gong,Gong
+Meow,Meow
+"Burping, eructation","Burping, eructation"
+Snare drum,Snare drum
+Snare drum,Snare drum
+Laughter,Laughter
+"Violin, fiddle","Violin, fiddle"
+Telephone,Telephone
+Finger snapping,Finger snapping
+"Burping, eructation","Burping, eructation"
+Hi-hat,Hi-hat
+Cough,Cough
+Saxophone,Saxophone
+Shatter,Shatter
+Microwave oven,Microwave oven
+Snare drum,Snare drum
+Finger snapping,Finger snapping
+Snare drum,Snare drum
+Oboe,Oboe
+Meow,Meow
+Shatter,Shatter
+Bark,Bark
+Tambourine,Tambourine
+Acoustic guitar,Acoustic guitar
+Tambourine,Tambourine
+Snare drum,Snare drum
+Hi-hat,Hi-hat
+Bass drum,Bass drum
+"Violin, fiddle","Violin, fiddle"
+Bass drum,Bass drum
+Gong,Gong
+Finger snapping,Finger snapping
+Snare drum,Snare drum
+Shatter,Shatter
+Fart,Fart
+Finger snapping,Finger snapping
+Hi-hat,Hi-hat
+Finger snapping,Finger snapping
+Finger snapping,Finger snapping
+Scissors,Scissors
+Hi-hat,Hi-hat
+Tambourine,Tambourine
+"Burping, eructation","Burping, eructation"
+Computer keyboard,Computer keyboard
+Laughter,Laughter
+Motorcycle,Bus
+Vehicle,Bus
+Microwave oven,Microwave oven
+Gong,Gong
+Laughter,Laughter
+Saxophone,Saxophone
+Drawer open or close,Drawer open or close
+Harmonica,Harmonica
+Bark,Bark
+Bus,Bus
+Bus,Bus
+"Violin, fiddle","Violin, fiddle"
+Trumpet,Trumpet
+"Violin, fiddle","Violin, fiddle"
+Applause,Applause
+Telephone,Telephone
+Computer keyboard,Computer keyboard
+Telephone,Telephone
+Acoustic guitar,Acoustic guitar
+Tearing,Tearing
+Clarinet,Clarinet
+Computer keyboard,Computer keyboard
+Telephone,Telephone
+Electric piano,Electric piano
+Meow,Meow
+Trumpet,Trumpet
+Drawer open or close,Drawer open or close
+Flute,Flute
+Oboe,Oboe
+Flute,Flute
+Scissors,Scissors
+Clarinet,Clarinet
+Chime,Chime
+Electric piano,Electric piano
+Engine,Bus
+Oboe,Oboe
+Flute,Flute
+Tearing,Tearing
+Writing,Writing
+Harmonica,Harmonica
+Acoustic guitar,Acoustic guitar
+"Violin, fiddle","Violin, fiddle"
+Telephone,Telephone
+Drawer open or close,Drawer open or close
+Applause,Applause
+Flute,Flute
+Drawer open or close,Drawer open or close
+Writing,Writing
+Trumpet,Trumpet
+Saxophone,Saxophone
+Clarinet,Clarinet
+Applause,Applause
+Trumpet,Trumpet
+Saxophone,Saxophone
+Squeak,Squeak
+Gong,Gong
+Flute,Flute
+Electric piano,Electric piano
+Bass drum,Bass drum
+Cello,Cello
+Glockenspiel,Glockenspiel
+Clarinet,Clarinet
+Flute,Flute
+Electric piano,Electric piano
+Squeak,Squeak
+Cello,Cello
+Clarinet,Clarinet
+Clarinet,Flute
+Saxophone,Saxophone
+Clarinet,Clarinet
+"Violin, fiddle","Violin, fiddle"
+Writing,Writing
+Clarinet,Clarinet
+Saxophone,Saxophone
+Applause,Applause
+"Violin, fiddle","Violin, fiddle"
+Applause,Applause
+Shatter,Shatter
+Flute,Flute
+"Violin, fiddle","Violin, fiddle"
+Cello,Cello
+Clarinet,Clarinet
+Electric piano,Electric piano
+Scissors,Scissors
+Cello,Cello
+"Violin, fiddle","Violin, fiddle"
+Applause,Applause
+Writing,Writing
+Harp,Harmonica
+Tearing,Scissors
+Flute,Flute
+Computer keyboard,Computer keyboard
+Double bass,Double bass
+Cello,Cello
+Acoustic guitar,Acoustic guitar
+Cello,Cello
+Computer keyboard,Computer keyboard
+Glockenspiel,Glockenspiel
+Clarinet,Clarinet
+"Violin, fiddle","Violin, fiddle"
+Cough,Cough
+Saxophone,Saxophone
+"Violin, fiddle","Violin, fiddle"
+Glockenspiel,Glockenspiel
+Saxophone,Saxophone
+Fireworks,Fireworks
+Clarinet,Acoustic guitar
+Telephone,Telephone
+Telephone,Telephone
+Computer keyboard,Computer keyboard
+Clarinet,Clarinet
+Saxophone,Saxophone
+Glockenspiel,Glockenspiel
+Cello,Cello
+Tearing,Tearing
+Squeak,Squeak
+Fireworks,Fireworks
+Tearing,Tearing
+Computer keyboard,Computer keyboard
+Harmonica,Harmonica
+Cello,Glockenspiel
+Saxophone,Saxophone
+Knock,Knock
+Harmonica,Harmonica
+Glockenspiel,Glockenspiel
+Gong,Gong
+Trumpet,Trumpet
+Telephone,Telephone
+Telephone,Telephone
+Clarinet,Saxophone
+Cello,Cello
+"Violin, fiddle","Violin, fiddle"
+Chime,Chime
+Fireworks,Fireworks
+Cello,Cello
+Tambourine,Tambourine
+Tearing,Tearing
+Glockenspiel,Glockenspiel
+Harmonica,Harmonica
+Shatter,Shatter
+Glockenspiel,Glockenspiel
+"Gunshot, gunfire",Fireworks
+"Burping, eructation","Burping, eructation"
+"Violin, fiddle","Violin, fiddle"
+Saxophone,Saxophone
+Harmonica,Harmonica
+Hi-hat,Hi-hat
+"Violin, fiddle","Violin, fiddle"
+Tools,Writing
+Keys jangling,Keys jangling
+"Violin, fiddle","Violin, fiddle"
+"Violin, fiddle","Violin, fiddle"
+Fireworks,Fireworks
+Harmonica,Harmonica
+"Violin, fiddle","Violin, fiddle"
+Cough,Cough
+Flute,Flute
+"Gunshot, gunfire","Gunshot, gunfire"
+"Gunshot, gunfire","Gunshot, gunfire"
+Harmonica,Harmonica
+"Violin, fiddle","Violin, fiddle"
+Fireworks,Fireworks
+Hi-hat,Hi-hat
+Glockenspiel,Glockenspiel
+Cowbell,Cowbell
+Cowbell,Cowbell
+Meow,Meow
+Cowbell,Cowbell
+Electric piano,Electric piano
+Cowbell,Cowbell
+Drawer open or close,Drawer open or close
+Meow,Meow
+Harmonica,Harmonica
+Drawer open or close,Drawer open or close
+Oboe,Oboe
+"Violin, fiddle","Violin, fiddle"
+"Gunshot, gunfire","Gunshot, gunfire"
+Laughter,Laughter
+"Violin, fiddle","Violin, fiddle"
+Squeak,Squeak
+Cowbell,Cowbell
+Knock,Knock
+"Violin, fiddle","Violin, fiddle"
+"Gunshot, gunfire","Gunshot, gunfire"
+"Gunshot, gunfire","Gunshot, gunfire"
+Acoustic guitar,Acoustic guitar
+Snare drum,Snare drum
+Drawer open or close,Drawer open or close
+Shatter,Shatter
+Drawer open or close,Drawer open or close
+Fart,Fart
+Meow,Meow
+Bark,Bark
+Fart,Fart
+Harmonica,Squeak
+"Violin, fiddle","Violin, fiddle"
+Bass drum,Bass drum
+Bass drum,Bass drum
+"Gunshot, gunfire","Gunshot, gunfire"
+Trumpet,Trumpet
+"Violin, fiddle","Violin, fiddle"
+Fireworks,Fireworks
+"Violin, fiddle","Violin, fiddle"
+Writing,Writing
+Microwave oven,Microwave oven
+Tambourine,Tambourine
+Trumpet,Trumpet
+Knock,Knock
+Telephone,Telephone
+Oboe,Oboe
+Cowbell,Cowbell
+"Gunshot, gunfire","Gunshot, gunfire"
+"Gunshot, gunfire","Gunshot, gunfire"
+Tearing,Squeak
+Finger snapping,Finger snapping
+Gong,Gong
+Bark,Bark
+Oboe,Oboe
+Bark,Bark
+Shatter,Shatter
+Gong,Gong
+"Violin, fiddle","Violin, fiddle"
+Tambourine,Tambourine
+Cello,"Violin, fiddle"
+Cough,Cough
+Cough,Cough
+Oboe,Oboe
+Snare drum,Snare drum
+Tambourine,Tambourine
+Knock,Knock
+Meow,Meow
+"Burping, eructation","Burping, eructation"
+"Gunshot, gunfire","Gunshot, gunfire"
+Tambourine,Tambourine
+Saxophone,Saxophone
+"Burping, eructation","Burping, eructation"
+"Violin, fiddle","Violin, fiddle"
+Bark,Bark
+Snare drum,Snare drum
+Fart,Fart
+"Insects, bees, wasps",Fart
+Bass drum,Bass drum
+Saxophone,Saxophone
+Tambourine,Hi-hat
+Cough,Cough
+Snare drum,Snare drum
+"Gunshot, gunfire","Gunshot, gunfire"
+Shatter,Shatter
+Hi-hat,Hi-hat
+Fireworks,Fireworks
+Hi-hat,Hi-hat
+Hi-hat,Tambourine
+Hi-hat,Hi-hat
+Finger snapping,Finger snapping
+Bus,Bus
+Bark,Bark
+Shatter,Shatter
+Fireworks,Fireworks
+Lorry,Bus
+Electric piano,Electric piano
+Chime,Chime
+Bass drum,Bus
+Telephone,Telephone
+"Violin, fiddle","Violin, fiddle"
+Saxophone,Saxophone
+Bark,Bark
+"Violin, fiddle","Violin, fiddle"
+Saxophone,Saxophone
+"Violin, fiddle","Violin, fiddle"
+Writing,Writing
+Saxophone,Saxophone
+Scissors,Scissors
+Flute,Flute
+Flute,Flute
+Bus,Bus
+Saxophone,Saxophone
+Flute,Flute
+"Gunshot, gunfire","Gunshot, gunfire"
+Flute,Flute
+Clarinet,Clarinet
+Acoustic guitar,Acoustic guitar
+Saxophone,Saxophone
+Flute,Flute
+Saxophone,Saxophone
+Chime,Chime
+Computer keyboard,Computer keyboard
+Acoustic guitar,Acoustic guitar
+Snare drum,Hi-hat
+Cello,Cello
+Trumpet,Trumpet
+Computer keyboard,Computer keyboard
+Chime,Chime
+Applause,Applause
+Knock,Knock
+Knock,Knock
+Oboe,Oboe
+Clarinet,Clarinet
+Flute,Flute
+Flute,Flute
+Clarinet,Clarinet
+Cello,Cello
+Telephone,Telephone
+Telephone,Telephone
+Clarinet,Clarinet
+Gong,Gong
+Cello,Cello
+Flute,Flute
+Applause,Applause
+Electric piano,Electric piano
+Dog,Bark
+Applause,Applause
+Acoustic guitar,Acoustic guitar
+Fireworks,Fireworks
+Saxophone,Saxophone
+Gong,Gong
+Alarm,Microwave oven
+Tambourine,Tambourine
+Cello,Cello
+Acoustic guitar,Acoustic guitar
+Keys jangling,Keys jangling
+Telephone,Telephone
+Flute,Flute
+Clarinet,Clarinet
+Telephone,Telephone
+Acoustic guitar,Acoustic guitar
+Chime,Chime
+Clarinet,Clarinet
+Gong,Gong
+Meow,Meow
+Applause,Applause
+Applause,Applause
+Writing,Writing
+Cello,Cello
+Keys jangling,Keys jangling
+Gong,Gong
+Clarinet,Clarinet
+Clarinet,Clarinet
+Bark,Bark
+Saxophone,Saxophone
+"Subway, metro, underground",Bus
+"Violin, fiddle","Violin, fiddle"
+Clarinet,Clarinet
+"Violin, fiddle",Cello
+Sniff,Writing
+Applause,Applause
+"Violin, fiddle","Violin, fiddle"
+Cello,Cello
+"Gunshot, gunfire","Gunshot, gunfire"
+Scissors,Scissors
+Cello,Cello
+"Violin, fiddle","Violin, fiddle"
+Bark,Bark
+Double bass,Double bass
+Harmonica,Harmonica
+Saxophone,Saxophone
+Saxophone,Saxophone
+Gong,Gong
+Acoustic guitar,Acoustic guitar
+Double bass,Double bass
+Cello,Cello
+Bark,Bark
+Cello,Cello
+Saxophone,Saxophone
+Chime,Chime
+Chime,Glockenspiel
+Saxophone,Saxophone
+Telephone,Telephone
+Chime,Chime
+Telephone,Telephone
+"Violin, fiddle","Violin, fiddle"
+Keys jangling,Keys jangling
+Electric piano,Electric piano
+Flute,Flute
+Microwave oven,Microwave oven
+Gong,Gong
+Telephone,Telephone
+Bass drum,Bass drum
+Bass drum,Bass drum
+Bass drum,Bass drum
+"Violin, fiddle","Violin, fiddle"
+Writing,Writing
+Saxophone,Saxophone
+Acoustic guitar,Acoustic guitar
+Telephone,Telephone
+Engine,Bus
+Wind instrument,Saxophone
+"Violin, fiddle","Violin, fiddle"
+Flute,Flute
+Harmonica,Harmonica
+Bark,Bark
+Clarinet,Clarinet
+"Gunshot, gunfire","Gunshot, gunfire"
+"Violin, fiddle","Violin, fiddle"
+Clarinet,Clarinet
+Knock,Knock
+"Burping, eructation","Burping, eructation"
+Scissors,Scissors
+Knock,Knock
+"Violin, fiddle","Violin, fiddle"
+Writing,Writing
+Glockenspiel,Glockenspiel
+Double bass,Double bass
+Cowbell,Cowbell
+Harmonica,Harmonica
+Double bass,Double bass
+Double bass,Double bass
+"Violin, fiddle","Violin, fiddle"
+Knock,Knock
+Tambourine,Telephone
+"Violin, fiddle","Violin, fiddle"
+Drawer open or close,Drawer open or close
+Double bass,Cello
+"Gunshot, gunfire","Gunshot, gunfire"
+Knock,Knock
+Knock,Knock
+Cello,Cello
+Finger snapping,Finger snapping
+Finger snapping,Finger snapping
+Shatter,Shatter
+Laughter,Laughter
+"Gunshot, gunfire","Gunshot, gunfire"
+Drawer open or close,Drawer open or close
+Shatter,Shatter
+Drawer open or close,Knock
+"Violin, fiddle",Squeak
+Cowbell,Cowbell
+Finger snapping,"Gunshot, gunfire"
+Saxophone,Saxophone
+Oboe,Oboe
+Cough,Cough
+Double bass,Double bass
+Laughter,Laughter
+"Violin, fiddle","Violin, fiddle"
+Tearing,Tearing
+Telephone,Telephone
+Oboe,Oboe
+Snare drum,Snare drum
+"Burping, eructation","Burping, eructation"
+"Gunshot, gunfire",Fireworks
+"Violin, fiddle","Violin, fiddle"
+"Gunshot, gunfire","Gunshot, gunfire"
+Glockenspiel,Glockenspiel
+"Gunshot, gunfire","Gunshot, gunfire"
+"Gunshot, gunfire","Gunshot, gunfire"
+Bass drum,Bass drum
+Bass drum,Bass drum
+Saxophone,Saxophone
+Tearing,Tearing
+Fireworks,Fireworks
+Laughter,Laughter
+Gong,Gong
+Tambourine,Tambourine
+Scissors,Scissors
+"Gunshot, gunfire","Gunshot, gunfire"
+Cowbell,Cowbell
+"Violin, fiddle","Violin, fiddle"
+Saxophone,Saxophone
+Double bass,Double bass
+"Violin, fiddle","Violin, fiddle"
+Tearing,Tearing
+"Violin, fiddle","Violin, fiddle"
+Cowbell,Cowbell
+"Gunshot, gunfire","Gunshot, gunfire"
+"Violin, fiddle","Violin, fiddle"
+Fart,Fart
+Double bass,Double bass
+Tambourine,Tambourine
+Bass drum,Bass drum
+Fireworks,Fireworks
+Fart,Fart
+Meow,Meow
+Squeak,Squeak
+Tambourine,Tambourine
+Shatter,Shatter
+"Violin, fiddle","Violin, fiddle"
+Cough,Cough
+Keys jangling,Keys jangling
+"Violin, fiddle","Violin, fiddle"
+Keys jangling,Keys jangling
+Knock,Drawer open or close
+Bark,Bark
+Fart,Fart
+Knock,Knock
+Oboe,Oboe
+Fireworks,"Gunshot, gunfire"
+"Violin, fiddle","Violin, fiddle"
+Cough,Cough
+Burping,"Burping, eructation"
+Laughter,Laughter
+Microwave oven,Microwave oven
+"Burping, eructation","Burping, eructation"
+Snare drum,Snare drum
+"Violin, fiddle","Violin, fiddle"
+Clarinet,Clarinet
+"Burping, eructation","Burping, eructation"
+Keys jangling,Keys jangling
+Cough,Cough
+Flute,Clarinet
+Hi-hat,Hi-hat
+Finger snapping,Finger snapping
+Tearing,Shatter
+Burping,"Burping, eructation"
+Tearing,Tearing
+Bark,Bark
+Hi-hat,Hi-hat
+Finger snapping,Finger snapping
+Finger snapping,Finger snapping
+Fireworks,Fireworks
+Hi-hat,Hi-hat
+Hi-hat,Hi-hat
+Bus,Bus
+Fan,Microwave oven
+Gong,Gong
+Tearing,Tearing
+Flute,Flute
+Bus,Bus
+Electric piano,Electric piano
+Bus,Bus
+Meow,Meow
+Acoustic guitar,Acoustic guitar
+Computer keyboard,Computer keyboard
+"Gunshot, gunfire","Gunshot, gunfire"
+Cello,Cello
+Chime,Chime
+Telephone,Telephone
+Finger snapping,Finger snapping
+"Violin, fiddle","Violin, fiddle"
+Harmonica,Harmonica
+Clarinet,Clarinet
+Writing,Writing
+Microwave oven,Microwave oven
+Cowbell,Chime
+Harmonica,Harmonica
+Electric piano,Electric piano
+Clarinet,Clarinet
+Saxophone,Saxophone
+Meow,Meow
+Flute,Flute
+Microwave oven,Microwave oven
+Chime,Chime
+Telephone,Telephone
+Knock,Knock
+Saxophone,Saxophone
+Chime,Glockenspiel
+Trumpet,Trumpet
+Drawer open or close,Drawer open or close
+Flute,Flute
+Clarinet,Clarinet
+Saxophone,Saxophone
+Knock,Knock
+Microwave oven,Microwave oven
+Bus,Bus
+Writing,Writing
+Flute,Flute
+Scissors,Scissors
+Flute,Flute
+"Violin, fiddle","Violin, fiddle"
+Microwave oven,Microwave oven
+Chime,Chime
+Applause,Applause
+Applause,Applause
+Acoustic guitar,Acoustic guitar
+Trumpet,Trumpet
+Clarinet,Clarinet
+Clarinet,Oboe
+Writing,Writing
+Glockenspiel,Glockenspiel
+Acoustic guitar,Acoustic guitar
+Harmonica,Harmonica
+Saxophone,Saxophone
+Computer keyboard,Computer keyboard
+Cello,Cello
+"Gunshot, gunfire","Gunshot, gunfire"
+Trumpet,Trumpet
+Cello,Cello
+Saxophone,Saxophone
+Saxophone,Saxophone
+Saxophone,Saxophone
+Clarinet,Clarinet
+Chime,Chime
+Trumpet,Trumpet
+"Violin, fiddle","Violin, fiddle"
+Oboe,Oboe
+Saxophone,Saxophone
+Flute,Flute
+Trumpet,Trumpet
+Harmonica,Harmonica
+"Violin, fiddle","Violin, fiddle"
+Cough,Cough
+Writing,Scissors
+Applause,Applause
+Chime,Chime
+Drawer open or close,Drawer open or close
+Tambourine,Tambourine
+Engine,Bus
+Saxophone,Saxophone
+Oboe,Oboe
+Cello,Cello
+Clarinet,Saxophone
+Clarinet,Clarinet
+Telephone,Telephone
+Acoustic guitar,Acoustic guitar
+Bus,Bus
+Laughter,Laughter
+Drawer open or close,Drawer open or close
+Chime,Chime
+Chime,Chime
+Saxophone,Saxophone
+Clarinet,Clarinet
+Cello,Cello
+Telephone,Telephone
+Clarinet,Clarinet
+Saxophone,Saxophone
+Keys jangling,Scissors
+Computer keyboard,Computer keyboard
+Applause,Applause
+Double bass,Double bass
+Glockenspiel,Glockenspiel
+Saxophone,Saxophone
+Clarinet,Clarinet
+Saxophone,Saxophone
+Writing,Writing
+Telephone,Telephone
+Trumpet,Trumpet
+"Gunshot, gunfire","Gunshot, gunfire"
+Cello,Cello
+Double bass,Double bass
+"Gunshot, gunfire","Gunshot, gunfire"
+Cough,Cough
+Cough,Cough
+Cello,"Violin, fiddle"
+Electric piano,Electric piano
+Applause,Applause
+Double bass,Double bass
+Scissors,Scissors
+Flute,Flute
+Oboe,Oboe
+Gong,Microwave oven
+Saxophone,Saxophone
+Knock,Knock
+Cowbell,Cowbell
+Glockenspiel,Glockenspiel
+"Burping, eructation","Burping, eructation"
+Flute,Flute
+Trumpet,Trumpet
+Microwave oven,Microwave oven
+Saxophone,Saxophone
+Cowbell,Cowbell
+Oboe,Oboe
+Double bass,Cello
+Double bass,Double bass
+Clarinet,Clarinet
+Cowbell,Cowbell
+Drawer open or close,Drawer open or close
+Double bass,Double bass
+Knock,Knock
+Harmonica,Harmonica
+Double bass,Double bass
+Fart,Fart
+Laughter,Laughter
+Oboe,Oboe
+Finger snapping,Finger snapping
+Harmonica,Harmonica
+Double bass,Double bass
+"Violin, fiddle","Violin, fiddle"
+Acoustic guitar,Acoustic guitar
+Gong,Gong
+Telephone,Telephone
+Oboe,Oboe
+Glockenspiel,Glockenspiel
+Acoustic guitar,Acoustic guitar
+Harmonica,Harmonica
+Hi-hat,Hi-hat
+Keys jangling,Keys jangling
+Squeak,Squeak
+Electric piano,Electric piano
+Electric guitar,Acoustic guitar
+Cowbell,Cowbell
+Keys jangling,Keys jangling
+"Gunshot, gunfire","Gunshot, gunfire"
+Oboe,Oboe
+Double bass,Double bass
+Clarinet,Clarinet
+"Violin, fiddle","Violin, fiddle"
+Drawer open or close,Drawer open or close
+Knock,Knock
+"Violin, fiddle","Violin, fiddle"
+Cowbell,Cowbell
+Laughter,Laughter
+Double bass,Double bass
+Squeak,Squeak
+Shatter,Shatter
+Cello,"Violin, fiddle"
+"Violin, fiddle","Violin, fiddle"
+"Violin, fiddle","Violin, fiddle"
+Shatter,Shatter
+"Violin, fiddle","Violin, fiddle"
+Typewriter,Drawer open or close
+"Gunshot, gunfire","Gunshot, gunfire"
+Fart,Fart
+Bass drum,Bass drum
+Acoustic guitar,Acoustic guitar
+Acoustic guitar,Acoustic guitar
+Tearing,Tearing
+Keys jangling,Keys jangling
+Snare drum,Snare drum
+Snare drum,Snare drum
+Fireworks,Fireworks
+"Violin, fiddle","Violin, fiddle"
+Fart,Fart
+Tambourine,Tambourine
+Oboe,Oboe
+Keys jangling,Keys jangling
+Scissors,Scissors
+"Violin, fiddle","Violin, fiddle"
+Writing,Writing
+Squeak,Squeak
+Squeak,Squeak
+Hi-hat,Hi-hat
+Oboe,Oboe
+Shatter,Shatter
+Bark,Bark
+"Violin, fiddle","Violin, fiddle"
+Cough,Cough
+Bark,Bark
+Snare drum,Snare drum
+Snare drum,Snare drum
+Fart,Fart
+Laughter,Laughter
+Fireworks,Fireworks
+"Gunshot, gunfire","Gunshot, gunfire"
+Double bass,Double bass
+Flute,"Gunshot, gunfire"
+Hi-hat,Hi-hat
+Trumpet,Trumpet
+Flute,Flute
+Tambourine,Tambourine
+"Violin, fiddle","Violin, fiddle"
+Snare drum,Snare drum
+Oboe,Oboe
+Cough,Cough
+Hi-hat,Hi-hat
+Oboe,Oboe
+Tambourine,Tambourine
+Tambourine,Tambourine
+Meow,Meow
+Snare drum,Snare drum
+Hi-hat,Hi-hat
+Hi-hat,Hi-hat
+"Burping, eructation","Burping, eructation"
+Fart,Fart
+Cough,Cough
+"Burping, eructation","Burping, eructation"
+Tambourine,Shatter
+Fart,Fart
+Hi-hat,Hi-hat
+"Gunshot, gunfire","Gunshot, gunfire"
+Finger snapping,Finger snapping
+"Burping, eructation","Burping, eructation"
+Hi-hat,Hi-hat
+Tambourine,Tambourine
+Finger snapping,Hi-hat
+Tambourine,Tambourine
+Finger snapping,Finger snapping
+Finger snapping,Finger snapping
+Hi-hat,Hi-hat
+Chime,Chime
+Electric piano,Electric piano
+Bark,Bark
+Flute,Flute
+Bus,Bus
+Applause,Applause
+Chime,Chime
+Chime,Chime
+Meow,Meow
+"Violin, fiddle","Violin, fiddle"
+"Violin, fiddle","Violin, fiddle"
+Saxophone,Saxophone
+Chime,Chime
+Saxophone,Saxophone
+Computer keyboard,Computer keyboard
+Saxophone,Saxophone
+Saxophone,Saxophone
+"Violin, fiddle","Violin, fiddle"
+Saxophone,Saxophone
+Hi-hat,Hi-hat
+Trumpet,Trumpet
+"Violin, fiddle","Violin, fiddle"
+Double bass,Double bass
+Telephone,Telephone
+Keys jangling,Keys jangling
+Drawer open or close,Drawer open or close
+Gong,Gong
+Clarinet,Clarinet
+Writing,Writing
+Telephone,Telephone
+Applause,Applause
+Laughter,Laughter
+Flute,Flute
+Bass drum,Bass drum
+Clarinet,Clarinet
+Saxophone,Saxophone
+Applause,Applause
+Squeak,Squeak
+Saxophone,Saxophone
+Acoustic guitar,Acoustic guitar
+"Violin, fiddle","Violin, fiddle"
+Telephone,Telephone
+Flute,Flute
+Tearing,Tearing
+Laughter,Laughter
+Trumpet,Trumpet
+Applause,Applause
+Acoustic guitar,Acoustic guitar
+"Violin, fiddle","Violin, fiddle"
+Saxophone,Saxophone
+"Gunshot, gunfire","Gunshot, gunfire"
+Clarinet,Flute
+Acoustic guitar,Acoustic guitar
+Finger snapping,Finger snapping
+Flute,Flute
+Cello,Cello
+Glockenspiel,Glockenspiel
+Alarm,Telephone
+"Violin, fiddle","Violin, fiddle"
+Acoustic guitar,Acoustic guitar
+Clarinet,Clarinet
+"Gunshot, gunfire","Gunshot, gunfire"
+Cello,Cello
+Meow,Meow
+Laughter,Laughter
+Knock,Knock
+Cello,Cello
+Cello,Cello
+"Violin, fiddle","Violin, fiddle"
+Saxophone,Saxophone
+Bark,Bark
+Oboe,Oboe
+Cello,Cello
+Clarinet,Clarinet
+Flute,Flute
+Cello,Cello
+Saxophone,Saxophone
+Trumpet,Saxophone
+Clarinet,Clarinet
+Tearing,Tearing
+Saxophone,Saxophone
+Cough,Cough
+Gong,Gong
+"Gunshot, gunfire","Gunshot, gunfire"
+Cough,Cough
+Saxophone,Saxophone
+Trumpet,Trumpet
+Double bass,Double bass
+"Burping, eructation","Burping, eructation"
+Finger snapping,Finger snapping
+Tearing,Tearing
+Trumpet,Trumpet
+"Violin, fiddle","Violin, fiddle"
+Clarinet,Saxophone
+Clarinet,Clarinet
+Scissors,Scissors
+Trumpet,Trumpet
+Cello,Cello
+"Gunshot, gunfire","Gunshot, gunfire"
+Telephone,Telephone
+"Violin, fiddle","Violin, fiddle"
+Microwave oven,Microwave oven
+Trumpet,Trumpet
+Clarinet,Saxophone
+"Burping, eructation","Burping, eructation"
+Clarinet,Saxophone
+Squeak,Squeak
+Telephone,Telephone
+Clarinet,Clarinet
+Keys jangling,Keys jangling
+Telephone,Telephone
+Typewriter,Computer keyboard
+Harmonica,Harmonica
+Double bass,Double bass
+Glockenspiel,Glockenspiel
+Clarinet,Saxophone
+Acoustic guitar,Acoustic guitar
+Cello,Cello
+Gong,Glockenspiel
+Fireworks,Fireworks
+Fireworks,Fireworks
+Cough,Cough
+Bark,Bark
+Cello,Cello
+Cowbell,Cowbell
+Gong,Gong
+Glockenspiel,Glockenspiel
+Saxophone,Saxophone
+Double bass,Double bass
+Acoustic guitar,Acoustic guitar
+Microwave oven,Microwave oven
+Laughter,Laughter
+Meow,Meow
+Glockenspiel,Glockenspiel
+Knock,Knock
+Gong,Gong
+Zipper,Squeak
+Snare drum,Snare drum
+Laughter,Laughter
+Tambourine,Tambourine
+Clarinet,Clarinet
+Laughter,Laughter
+"Violin, fiddle","Violin, fiddle"
+Knock,Knock
+Knock,Knock
+Oboe,Oboe
+Finger snapping,Finger snapping
+Oboe,Oboe
+"Violin, fiddle","Violin, fiddle"
+Double bass,Double bass
+Oboe,Oboe
+Saxophone,Saxophone
+"Violin, fiddle","Violin, fiddle"
+Cowbell,Cowbell
+Hi-hat,Hi-hat
+Scissors,Scissors
+Gong,Gong
+Squeak,Squeak
+Oboe,Oboe
+Finger snapping,Finger snapping
+Acoustic guitar,Acoustic guitar
+Harmonica,Harmonica
+Cowbell,Cowbell
+Meow,Meow
+"Violin, fiddle","Violin, fiddle"
+Fireworks,Fireworks
+"Gunshot, gunfire","Gunshot, gunfire"
+"Violin, fiddle","Violin, fiddle"
+Glockenspiel,Chime
+Saxophone,Saxophone
+Finger snapping,Finger snapping
+Hi-hat,Hi-hat
+Cowbell,Cowbell
+Cowbell,Cowbell
+Fart,Fart
+Tearing,Tearing
+Gong,Gong
+Knock,Knock
+Gong,Gong
+Sniff,"Gunshot, gunfire"
+Tearing,Finger snapping
+Gong,Gong
+"Gunshot, gunfire","Gunshot, gunfire"
+Fart,Fart
+Cough,Cough
+Meow,Meow
+Gong,Gong
+Fireworks,Fireworks
+Tambourine,Tambourine
+"Violin, fiddle","Violin, fiddle"
+Keys jangling,Keys jangling
+"Gunshot, gunfire",Fireworks
+Double bass,Double bass
+Tambourine,Tambourine
+Cowbell,Cowbell
+Telephone,Microwave oven
+Finger snapping,Finger snapping
+Oboe,Oboe
+Writing,Writing
+Snare drum,Snare drum
+Shatter,Shatter
+"Burping, eructation","Burping, eructation"
+Tearing,Tearing
+Snare drum,Hi-hat
+Saxophone,Saxophone
+"Violin, fiddle","Violin, fiddle"
+Meow,Meow
+Snare drum,Snare drum
+Fireworks,Fireworks
+Oboe,Oboe
+Bass drum,Bass drum
+Oboe,Oboe
+Scratching,"Gunshot, gunfire"
+Bass drum,Bass drum
+Shatter,Shatter
+Keys jangling,Keys jangling
+Guided by sound,Fireworks
+Burping,"Burping, eructation"
+Tambourine,Tambourine
+Bark,Bark
+"Gunshot, gunfire","Gunshot, gunfire"
+Meow,Meow
+Saxophone,Saxophone
+Shatter,Shatter
+Knock,Knock
+Laughter,Laughter
+Electric piano,Gong
+Tearing,Squeak
+Meow,Meow
+"Gunshot, gunfire","Gunshot, gunfire"
+Shatter,Shatter
+Flute,Flute
+Keys jangling,Keys jangling
+Drawer open or close,Drawer open or close
+Hi-hat,Hi-hat
+Flute,Flute
+Keys jangling,Keys jangling
+Tambourine,Tambourine
+Bass drum,Bass drum
+Snare drum,Snare drum
+Burping,"Burping, eructation"
+Fart,Fart
+Cowbell,Cowbell
+Bass drum,Bass drum
+Shatter,Shatter
+Shatter,Shatter
+Fart,Fart
+Bark,Bark
+Gong,Gong
+Fireworks,Fireworks
+Gong,Gong
+Tambourine,Tambourine
+Hi-hat,Hi-hat
+Hi-hat,Hi-hat
+Fart,Fart
+Cowbell,Cowbell
+Bus,Bus
+Computer keyboard,Computer keyboard
+Keys jangling,Tambourine
+Bell,Cowbell
+Tearing,Tearing
+Bus,Bus
+Saxophone,Saxophone
+Cello,Acoustic guitar
+Saxophone,Saxophone
+Microwave oven,Microwave oven
+Flute,Flute
+Saxophone,Saxophone
+Squeak,Squeak
+Trumpet,Trumpet
+Double bass,Double bass
+Muffing,Telephone
+Telephone,Telephone
+Scissors,Scissors
+Chime,Chime
+Flute,Flute
+Applause,Applause
+Cello,Cello
+Flute,Flute
+Flute,Flute
+Clarinet,Clarinet
+Gong,Gong
+Fireworks,Fireworks
+Saxophone,Saxophone
+Acoustic guitar,Acoustic guitar
+"Gunshot, gunfire","Gunshot, gunfire"
+Squeak,Squeak
+Keys jangling,Chime
+Saxophone,Saxophone
+Computer keyboard,Computer keyboard
+Drawer open or close,Drawer open or close
+Clarinet,Clarinet
+Glockenspiel,Glockenspiel
+Cough,Cough
+Drawer open or close,Drawer open or close
+Harmonica,Harmonica
+Double bass,Double bass
+Oboe,Oboe
+Squeak,Squeak
+Cello,Cello
+Cowbell,Cowbell
+Harmonica,Harmonica
+Hi-hat,Hi-hat
+Oboe,Oboe
+Shatter,Keys jangling
+Finger snapping,Finger snapping
+Flute,"Gunshot, gunfire"
+Piano,Electric piano
+"Burping, eructation","Burping, eructation"
+"Violin, fiddle","Violin, fiddle"
+Fart,Fart
+Saxophone,Saxophone
+Oboe,Oboe
+Hi-hat,Hi-hat
+Cowbell,Cowbell
+"Burping, eructation","Burping, eructation"
+Bass drum,Bass drum
+Fart,Fart
+Tambourine,Scissors
+Bark,Bark

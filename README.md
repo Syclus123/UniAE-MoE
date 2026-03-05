@@ -22,8 +22,8 @@ Required models:
 - **Flamingo3** (Hugging Face repo: `nvidia/audio-flamingo-3-hf`)  
   https://huggingface.co/nvidia/audio-flamingo-3-hf
 
-- **UniAE-MoE** (Hugging Face repo: `Syclus/UniAE-MoE`)  
-  https://huggingface.co/Syclus/UniAE-MoE
+- **UniAE-MoE** (Hugging Face repo: `7cylo/UniAE-MoE`)  
+  https://huggingface.co/7cylo/UniAE-MoE
 
 After downloading, please ensure your local directory structure looks like this:
 
@@ -32,7 +32,7 @@ After downloading, please ensure your local directory structure looks like this:
 └── UniAE-MoE/
     ├── Qwen2-Audio-7B/          # from Qwen/Qwen2-Audio-7B
     ├── audio-flamingo-3-hf/     # from nvidia/audio-flamingo-3-hf
-    ├── checkpoints/             # from Syclus/UniAE-MoE
+    ├── checkpoints/             # from 7cylo/UniAE-MoE
     └── ...
 ```
 

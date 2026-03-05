@@ -916,7 +916,7 @@ class FlamingoQwen2MoEEncoder(nn.Module):
         self.audio_qformer = None
         
         cache_dir = "./cache"
-        model_name = "Syclus/UniAE-MoE"
+        model_name = "7cylo/UniAE-MoE"
 
         snapshot_download(
             repo_id=model_name,

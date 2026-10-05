@@ -2,12 +2,22 @@
 
 This repository contains the official implementation for the work "UniAE-MoE: A Unified Audio Encoder via Mixture of Experts".
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2609.39199"><img src="https://img.shields.io/badge/arXiv-2609.39199-b31b1b.svg" alt="arXiv"></a>
+  <a href="#whats-new"><img src="https://img.shields.io/badge/Venue-NCMMSC%202026%20%28Oral%29-4b8bbe.svg" alt="NCMMSC 2026 Oral"></a>
+  <a href="https://huggingface.co/Syclus/UniAE-MoE/tree/main"><img src="https://img.shields.io/badge/Model-Hugging%20Face-yellow.svg" alt="Hugging Face model"></a>
+</p>
+
 <img width="1432" alt="abs" src="assets/UniAE-MoE.png">
 
 ## Abstract
->Large Audio Language Models (LALMs) rely on effective audio encoders for multi-task performance. We introduce **UniAE-MoE**, a unified audio encoder designed to model cross-domain audio representations and achieve outstanding downstream LLM performance via a Mixture-of-Experts (MoE) architecture.
-Specifically, we explore mainstream audio encoders and integrate those from Qwen2-Audio and Audio-Flamingo 3, which demonstrate superior downstream capabilities. To facilitate effective model fusion, we propose an advanced MoE module that uses SwiGLU with shared experts to decouple encoder networks, and we further introduce a two-stage instruction-tuning strategy to better adapt the model to diverse downstream tasks. Moreover, we propose the task-specific data scaling (TSDS) technique to enhance downstream performance of UniAE-MoE. 
-Experiments on the XARES-LLM benchmark shows the UniAE-MoE achieves a high score of **0.802**, indicating high performance cross speech, music and audio tasks.
+> Large Audio Language Models (LALMs) rely on effective audio encoders for multi-task performance. We introduce **UniAE-MoE**, a unified audio encoder designed to model cross-domain audio representations and achieve outstanding downstream understanding performance via a Mixture-of-Experts (MoE) architecture. Specifically, we explore mainstream audio encoders and integrate those from Qwen2-Audio and Audio-Flamingo 3, which demonstrate superior downstream capabilities. To facilitate effective model fusion, we improve our encoder using SwiGLU with shared experts to decouple encoder networks, and we further introduce a two-stage instruction-tuning strategy to better adapt the model to diverse downstream tasks. Moreover, we propose the task-specific data scaling (TSDS) technique to enhance UniAE-MoE's understanding capabilities. On the XARES-LLM benchmark, UniAE-MoE attains a score of **0.802**, achieving state-of-the-art performance. It also delivers top-tier performance in the official Interspeech 2026 Audio Encoder Capability Challenge, further demonstrating robust generalization across diverse audio tasks. Together, these results validate the effectiveness of UniAE-MoE for unified audio understanding across speech, music, and general audio domains.
+
+## 🔥What's new
+
+- 🎉 **[2026/09] Our paper has been accepted for an oral presentation at NCMMSC 2026!**
+- 🎉 **[2026/03] We won first place 🏆 in Track A and fourth place in Track B of the Interspeech 2026 Audio Encoder Capability Challenge.**
+
 
 ## 🚀 Get Started
 
@@ -22,8 +32,8 @@ Required models:
 - **Flamingo3** (Hugging Face repo: `nvidia/audio-flamingo-3-hf`)  
   https://huggingface.co/nvidia/audio-flamingo-3-hf
 
-- **UniAE-MoE** (Hugging Face repo: `7cylo/UniAE-MoE`)  
-  https://huggingface.co/7cylo/UniAE-MoE
+- **UniAE-MoE** (Hugging Face repo: `Syclus/UniAE-MoE`)  
+  https://huggingface.co/Syclus/UniAE-MoE/tree/main
 
 After downloading, please ensure your local directory structure looks like this:
 
@@ -32,7 +42,7 @@ After downloading, please ensure your local directory structure looks like this:
 └── UniAE-MoE/
     ├── Qwen2-Audio-7B/          # from Qwen/Qwen2-Audio-7B
     ├── audio-flamingo-3-hf/     # from nvidia/audio-flamingo-3-hf
-    ├── checkpoints/             # from 7cylo/UniAE-MoE
+    ├── checkpoints/             # from Syclus/UniAE-MoE
     └── ...
 ```
 

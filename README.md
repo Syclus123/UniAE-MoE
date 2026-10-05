@@ -16,7 +16,7 @@ This repository contains the official implementation for the work "UniAE-MoE: A 
 ## 🔥What's new
 
 - 🎉 **[2026/09] Our paper has been accepted for an oral presentation at NCMMSC 2026!**
-- 🎉 **[2026/03] We won first place 🏆 in Track A and fourth place in Track B of the Interspeech 2026 Audio Encoder Capability Challenge.**
+- 🎉 **[2026/03] We won first place 🏆 in Track A and fourth place in Track B of the Interspeech 2026 Audio Encoder Capability Challenge.** ([Challenge results](https://dataoceanai.github.io/Interspeech2026-Audio-Encoder-Challenge/docs/result.html))
 
 
 ## 🚀 Get Started
